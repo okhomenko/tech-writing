@@ -1,9 +1,9 @@
 # Checkout page
 
-* (#adding-to-cartv)[Adding to cart]
-* (#list-of-items)[List of items]
-* (#shipping-billing)[Shipping, billing]
-* (#review-order)[Review order]
+* [Adding to cart](#adding-to-cartv)
+* [List of items](#list-of-items)
+* [Shipping, billing](#shipping-billing)
+* [Review order](#review-order)
 
 In this manual you will find info how checkout page works from user perspective. It covers all user workflow from adding goods to shopping cart to paying and review order
 
